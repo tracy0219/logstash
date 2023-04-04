@@ -1,2 +1,2 @@
 # logstash
-通过naocs的方式读取日志文件
+通过nacos的方式读取日志文件
